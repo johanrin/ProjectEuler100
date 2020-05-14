@@ -9,6 +9,7 @@ This is my GitHub repository for the #ProjectEuler100 Challenge:
 | Problem 3: Largest prime factor       | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-3/problem-3-largest-prime-factor.js)       |
 | Problem 4: Largest palindrome product | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-4/problem-4-largest-palindrome-product.js) |
 | Problem 5: Smallest multiple          | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-5/problem-5-smallest-multiple.js)          |
+| Problem 6: Sum square difference      | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-6/problem-6-sum-square-difference.js)      |
 
 For more information about the challenge:
 [https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/](https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/)
