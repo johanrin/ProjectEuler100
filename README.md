@@ -12,6 +12,7 @@ This is my GitHub repository for the #ProjectEuler100 Challenge:
 | Problem 6: Sum square difference       | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-6/problem-6-sum-square-difference.js)       |
 | Problem 7: 10001st prime               | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-7/problem-7-10001st-prime.js)               |
 | Problem 8: Largest product in a series | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-8/problem-8-largest-product-in-a-series.js) |
+| Problem 9: Special Pythagorean triplet | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-9/problem-9-special-pythagorean-triplet.js) |
 
 For more information about the challenge:
 [https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/](https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/)
