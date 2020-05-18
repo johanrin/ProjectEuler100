@@ -14,6 +14,7 @@ This is my GitHub repository for the #ProjectEuler100 Challenge:
 | Problem 8: Largest product in a series | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-8/problem-8-largest-product-in-a-series.js) |
 | Problem 9: Special Pythagorean triplet | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-9/problem-9-special-pythagorean-triplet.js) |
 | Problem 10: Summation of primes        | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-10/problem-10-summation-of-primes.js)       |
+| Problem 11: Largest product in a grid  | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-11/problem-11-largest-product-in-a-grid.js) |
 
 For more information about the challenge:
 [https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/](https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/)
