@@ -17,6 +17,7 @@ This is my GitHub repository for the #ProjectEuler100 Challenge:
 | Problem 11: Largest product in a grid          | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-11/problem-11-largest-product-in-a-grid.js)          |
 | Problem 12: Highly divisible triangular number | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-12/problem-12-highly-divisible-triangular-number.js) |
 | Problem 13: Large sum                          | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-13/problem-13-large-sum.js)                          |
+| Problem 14: Longest Collatz sequence           | [JavaScript](https://github.com/johanrin/ProjectEuler100/blob/master/problem-14/problem-14-longest-collatz-sequence.js)           |
 
 For more information about the challenge:
 [https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/](https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/)
